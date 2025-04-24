@@ -1,6 +1,6 @@
 # SMS Spam Detection using LSTM
 
-This is a deep learning-based SMS Spam Detection project using an LSTM (Long Short-Term Memory) model built with TensorFlow/Keras. The model classifies SMS messages as either "Spam" or "Not Spam" with a high accuracy (~98%).
+This is a deep learning-based SMS Spam Detection project using an LSTM (Long Short-Term Memory) model built with TensorFlow/Keras. The model classifies SMS messages as either "Spam" or "Not Spam" with a high accuracy (98%).
 
 ------------------------------------------------------------
 Features:
