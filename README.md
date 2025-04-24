@@ -37,6 +37,6 @@ This project is a deep learning-based SMS Spam Detection system that classifies 
 ---
 
 ## Files Generated:
-spam_detector_lstm.h5 → Trained LSTM model
-tokenizer.json → Tokenizer used during training
+ - spam_detector_lstm.h5 → Trained LSTM model
+ - tokenizer.json → Tokenizer used during training
 
