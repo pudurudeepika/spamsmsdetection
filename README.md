@@ -1,6 +1,6 @@
 # SMS Spam Detection using LSTM
 
-SMS Spam Detection system using Deep Learning with an LSTM (Long Short-Term Memory) model. The system classifies SMS messages into two categories: "Spam" or "Not Spam". Built using TensorFlow and Keras, the model achieves 98% accuracy on the test dataset, making it highly effective for real-time SMS filtering.
+- SMS Spam Detection system using Deep Learning with an LSTM (Long Short-Term Memory) model. The system classifies SMS messages into two categories: "Spam" or "Not Spam". Built using TensorFlow and Keras, the model achieves 98% accuracy on the test dataset, making it highly effective for real-time SMS filtering.
 ---
 ## Features
 - Text Preprocessing: Prepares data using NLTK for stopwords removal, tokenization, and other text cleaning techniques.
