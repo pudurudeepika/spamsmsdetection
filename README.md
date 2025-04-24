@@ -31,8 +31,8 @@ You can access the dataset on Kaggle [here](https://www.kaggle.com/datasets/ucim
 - Dense Layer: Outputs the final prediction, using a sigmoid activation function to classify the message as either spam or not spam. 
 ---
 ## Installation and Setup
-- **Prerequisites** - To run the project, you’ll need the following software and libraries:
-  1)Python 3.x
+- To run the project, you’ll need the following software and libraries:
+  1) Python 3.x
   2)TensorFlow (for deep learning model)
   3)Keras (for building the neural network)
   4)NLTK (for natural language processing)
