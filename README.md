@@ -33,12 +33,12 @@ You can access the dataset on Kaggle [here](https://www.kaggle.com/datasets/ucim
 ## Installation and Setup
 - **Prerequisites**
   - To run the project, you’ll need the following software and libraries:
-  -     1)Python 3.x
-  -     2)TensorFlow (for deep learning model)
-  -     3)Keras (for building the neural network)
-  -     4)NLTK (for natural language processing)
-  -     5)Pandas (for data handling)
-  -     6)NumPy (for numerical operations)
+  -  1)Python 3.x
+  -  2)TensorFlow (for deep learning model)
+  -  3)Keras (for building the neural network)
+  -  4)NLTK (for natural language processing)
+  -  5)Pandas (for data handling)
+  -  6)NumPy (for numerical operations)
 ---
 ## Installing Dependencies
 - **You can install the required dependencies using the following command:**
