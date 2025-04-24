@@ -4,7 +4,7 @@ This project is a deep learning-based SMS Spam Detection system that classifies 
 
 ---
 
-## 🔍 Features
+## Features
 
 - Preprocessing using **NLTK** (stopwords removal, tokenization, etc.)
 - Built using an **LSTM model** for sequence-based text classification
@@ -14,7 +14,7 @@ This project is a deep learning-based SMS Spam Detection system that classifies 
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** SMS Spam Collection Dataset (Kaggle)
 - **Format:** CSV
@@ -27,7 +27,7 @@ This project is a deep learning-based SMS Spam Detection system that classifies 
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 1. **Embedding Layer** – Converts text into vector representation  
 2. **SpatialDropout1D** – Reduces overfitting  
@@ -35,3 +35,8 @@ This project is a deep learning-based SMS Spam Detection system that classifies 
 4. **Dense Layer** – Sigmoid activation for binary classification  
 
 ---
+
+## Files Generated:
+spam_detector_lstm.h5 → Trained LSTM model
+tokenizer.json → Tokenizer used during training
+
